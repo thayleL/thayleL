@@ -1,3 +1,7 @@
+body {
+        margin: 0px;
+}
+
 .page {
 	background-image: url("newsbackground.png");
 	background-position: center top;
